@@ -1,9 +1,11 @@
 # Pupper-Supreme
+By Tomer Cohen and Liora Bar
+
 An example E-Commerce full stack project (React-JS frontend, Express + Sqlite3 backend).
 Working with Knex, can switch to a different RDBMS for deployment.
 
 The focus of this project was to learn frontend development with React-JS.
-Design was done using Fomantic-UI as a CSS framework for quick maintainable visual prototyping with my project partner Liora Bar.
+Design was done using Fomantic-UI as a CSS framework for quick maintainable visual prototyping with my project partner.
 
 Example Pages
 -------------
