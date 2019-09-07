@@ -5,7 +5,7 @@ An example E-Commerce full stack project (React-JS frontend, Express + Sqlite3 b
 Working with Knex, can switch to a different RDBMS for deployment.
 
 The focus of this project was to learn frontend development with React-JS.
-Design was done using Fomantic-UI as a CSS framework for quick maintainable visual prototyping with my project partner.
+Design was done using Fomantic-UI as a CSS framework for quick maintainable visual prototyping as project partners.
 
 Example Pages
 -------------
